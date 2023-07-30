@@ -1,3 +1,3 @@
 # Carta-Amor
 
-• você pode usar como projeto.
+• Você pode usar como projeto.
